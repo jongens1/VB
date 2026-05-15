@@ -1,1 +1,3 @@
-# Python project dependencies
+streamlit
+pandas
+openpyxl
